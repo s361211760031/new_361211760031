@@ -8,6 +8,10 @@ public class myCode {
         System.out.println(" น.ส สุภาณี จากถิ่น.");
         System.out.println(" 361211760031.");
         System.out.println(" MIT211.");
+        System.out.println(" Som.");
+
+
+
 
     }//main
 
