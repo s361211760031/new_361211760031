@@ -62,5 +62,16 @@ public class Student {
     public void setAde(int ade) {
         this.age = ade;
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "name='" + name + '\'' +
+                ", id='" + id + '\'' +
+                ", email='" + email + '\'' +
+                ", tel='" + tel + '\'' +
+                ", age=" + age +
+                '}';
+    }
 }
 

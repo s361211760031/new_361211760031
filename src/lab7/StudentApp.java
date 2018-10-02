@@ -6,8 +6,11 @@ public class StudentApp {
 
         Student std = new Student("Som","031","supanee.som40@gmail.com","0986754231",21);
 
+        System.out.println(std.toString());
 
+        std.setName("Supanee");
 
+        System.out.println(std.toString());
 
 
 
